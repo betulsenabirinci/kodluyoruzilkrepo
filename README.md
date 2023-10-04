@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-Kodluyoruz eğitimi tarafından açtığım ödev proje :)
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
